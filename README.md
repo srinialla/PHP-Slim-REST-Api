@@ -147,7 +147,7 @@ or
 <a name="authors"></a>
 ## :eyeglasses: Authors
 
-  * **Srinu Alla** - *Owner* - [ManuelGil](https://github.com/srinialla) 
+  * **Srinu Alla** - *Owner* - [SrinuAlla](https://github.com/srinialla) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
