@@ -141,7 +141,7 @@ or
   * XAMPP for Windows 5.6.32 ([XAMPP](https://www.apachefriends.org/download.html))
   * Visual Studio Code ([VSCode](https://code.visualstudio.com/))
   * COMPOSER ([COMPOSER](https://getcomposer.org/))
-  * RestEasy Extension for Chrome ([RestEasy](https://chrome.google.com/webstore/detail/resteasy/nojelkgnnpdmhpankkiikipkmhgafoch))
+  * Advance REST Extension for Chrome ([AdvanceREST]([https://chrome.google.com/webstore/detail/resteasy/nojelkgnnpdmhpankkiikipkmhgafoch](https://chromewebstore.google.com/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo))
 
 
 <a name="authors"></a>
